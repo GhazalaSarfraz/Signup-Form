@@ -11,6 +11,12 @@ A responsive and user-friendly Signup Form built using **Flutter**. This app dem
 ## Tech Stack
 - **Flutter**
 - **Dart**
-- **Material Dart
-- 
+
+  ## Output
+
+![image](https://github.com/user-attachments/assets/80659d0c-73c1-4998-8d52-a5029ec955c3)
+![image](https://github.com/user-attachments/assets/62facc71-e408-420e-bffa-25d32bc99c6e)
+
+
+
 
